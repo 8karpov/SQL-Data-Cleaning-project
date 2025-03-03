@@ -7,4 +7,5 @@ Therefore, for correct usage of the dataset by MySQL in iOS it was converted to 
 
 csvjson (1).json - dataset file for iOS
 layoffs.csv - dataset file for Windows.
+
 Data set link https://github.com/AlexTheAnalyst/MySQL-YouTube-Series
